@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @madhusaravanan27
+# 👋 Hi, I’m Madhumitha Saravanan
 
 - 👀 I’m interested in **Big Data Engineering, Machine Learning, and Cloud Technologies**  
 - 🌱 I’m currently learning **Real-time data processing, advanced ML models, and cloud optimization**  
