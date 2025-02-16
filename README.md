@@ -15,12 +15,13 @@
 
 ### **🖥 Programming**
 ![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-T--SQL-007ACC?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007ACC?style=for-the-badge&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/R-007ACC?style=for-the-badge&logo=r&logoColor=white)
 
 ### **📊 Big Data & Tools**
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-007ACC?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-007ACC?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![DBT](https://img.shields.io/badge/DBT-007ACC?style=for-the-badge&logo=dbt&logoColor=white)
 ![Apache Drill](https://img.shields.io/badge/Apache%20Drill-007ACC?style=for-the-badge)
 ![Hadoop](https://img.shields.io/badge/Hadoop-007ACC?style=for-the-badge&logo=apachehadoop&logoColor=white)
@@ -32,6 +33,8 @@
 ![GCP](https://img.shields.io/badge/GCP-007ACC?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-007ACC?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-007ACC?style=for-the-badge&logo=jenkins&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-007ACC?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-007ACC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-007ACC?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ### **🛢 Databases**
