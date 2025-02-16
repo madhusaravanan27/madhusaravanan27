@@ -48,5 +48,5 @@
 
 
 ## 📬 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhumitha%20Saravanan-007ACC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhumithasaravanan/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhumitha%20Saravanan-007ACC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithasaravanan7/)  
 [![GitHub](https://img.shields.io/badge/GitHub-MadhumithaSaravanan-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhusaravanan27)
