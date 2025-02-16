@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in **Big Data Engineering, Machine Learning, and Cloud Technologies**  
 - 🌱 I’m currently learning **Real-time data processing, advanced ML models, and cloud optimization**  
-- 💞️ I’m looking to collaborate on **Open-source AI & Data Engineering projects**  
+- 💞️ I’m looking to collaborate on **open-source AI & Data Engineering projects**  
 - 📫 How to reach me:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-007ACC?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhumithasaravanan)  
   [![GitHub](https://img.shields.io/badge/GitHub-Black?style=flat&logo=github&logoColor=007ACC)](https://github.com/madhusaravanan27)  
@@ -57,6 +57,14 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhusaravanan27&theme=tokyonight" alt="GitHub Streak" width="50%">
 </p>
 
+---
+
+## 🔥 **Recent Projects**
+- 🏆 **[Zillow House Value Trend Analysis](https://github.com/madhusaravanan27/zillow-analysis)** – ML-based real estate trend forecasting.
+- 🏀 **[Real-Time Sports Analytics](https://github.com/madhusaravanan27/sports-analytics)** – Live data stream processing using PySpark.
+- 🔍 **[Crime Classification](https://github.com/madhusaravanan27/crime-classification)** – AI-driven crime pattern analysis.
+
+---
 
 ## 📬 **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhumitha%20Saravanan-007ACC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhumithasaravanan/)  
