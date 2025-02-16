@@ -3,9 +3,6 @@
 - 👀 I’m interested in **Big Data Engineering, Machine Learning, and Cloud Technologies**  
 - 🌱 I’m currently learning **Real-time data processing, advanced ML models, and cloud optimization**  
 - 💞️ I’m looking to collaborate on **open-source AI & Data Engineering projects**  
-- 📫 How to reach me:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-007ACC?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhumithasaravanan)  
-  [![GitHub](https://img.shields.io/badge/GitHub-007ACC?style=flat&logo=github&logoColor=white)](https://github.com/madhusaravanan27)  
 - 😄 Pronouns: **She/Her**  
 - ⚡ Fun fact: **I love cooking and experimenting with new dishes!** 🍳🔥  
 
@@ -49,4 +46,3 @@
 
 ## 📬 **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhumitha%20Saravanan-007ACC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithasaravanan7/)  
-[![GitHub](https://img.shields.io/badge/GitHub-MadhumithaSaravanan-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhusaravanan27)
